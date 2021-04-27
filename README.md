@@ -25,7 +25,7 @@ Here’s a list of the major computations done to explore, clean and process the
 * Dealing with imbalanced data (SMOTE)
 * Train test split
 * Logistic Regression
-* Confusión matrix
+* Confusion matrix
 * Precision, recall and f1 scores
 
 
