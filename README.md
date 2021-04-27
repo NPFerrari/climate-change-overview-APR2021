@@ -4,6 +4,7 @@
 In this project, executed in collaboration with Ironhack, my team and I performed an exploratory data analysis focusing on people's perception about climate change. 
 Specifically, we were interested in analysing the factors that influence citizens who do not believe in climate change. 
 We gathered the data from the European Social Survey (ESS). This survey has the aim to measure behaviour patterns of the European population.
+Please contact me in case you would like to receive the raw dataset (I couldn't upload it due to the size): https://www.linkedin.com/in/npferrari/
 
 
 **Data analysis**:
